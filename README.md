@@ -47,14 +47,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/andreyaii/andreyaii/main/snake.svg" alt="Snake animation" />
-
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andreyaii.andreyaii&left_color=pink&right_color=deeppink"  />
