@@ -2,10 +2,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreyaii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreyaii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreyaii&show_icons=true&theme=merko&border_color=599200" width="48%">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreyaii&theme=merko&layout=compact&border_color=599200&langs_count=6" width="48%">
+</p>
 
 ###
 
