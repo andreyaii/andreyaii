@@ -48,7 +48,16 @@
   </a>
 </div>
 
+## 🐍 My Contribution Snake
+![GitHub contribution snake](https://raw.githubusercontent.com/andreyaii/andreyaii/output/github-contribution-grid-snake-dark.svg)
 
+<p align="center">
+  <img src="https://trophygh.kolioaris.xyz/?username=andreyaii&theme=matrix&no-bg=true&no-frame=true&row=1&column=8" width="100%">
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreyaii&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%"> 
+</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andreyaii.andreyaii&left_color=pink&right_color=deeppink"  />
