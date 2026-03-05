@@ -52,12 +52,12 @@
 ![Snake animation](https://raw.githubusercontent.com/andreyaii/andreyaii/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
-  <img src="https://trophygh.kolioaris.xyz/?username=andreyaii&theme=matrix&no-bg=true&no-frame=true&row=1&column=8" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreyaii&bg_color=0d1117&color=ffb6c1&line=ffb6c1&point=ff1493&hide_border=true" width="100%">
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreyaii&theme=react-    dark&hide_border=true&area=true&color=FFB6C1&line=FFB6C1&point=FF1493" width="100%"> 
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andreyaii.andreyaii&left_color=pink&right_color=deeppink" />
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andreyaii.andreyaii&left_color=pink&right_color=deeppink" />
