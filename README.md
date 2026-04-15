@@ -59,7 +59,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andreyaii.andreyaii&left_color=pink&right_color=deeppink" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andreyaii.andreyaii&left_color=pink&right_color=deeppink" />
-</div>
 ###
