@@ -1,27 +1,33 @@
 <h2 align="left">Hi 👋! My name is Andrea</h2>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreyaii&show_icons=true&theme=merko&border_color=599200&v=1" height="165" alt="GitHub Stats" />
+  <img width="10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreyaii&theme=merko&layout=compact&border_color=599200&langs_count=6" height="165" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreyaii&show_icons=true&theme=merko&border_color=599200" width="48%">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreyaii&theme=merko&layout=compact&border_color=599200&langs_count=6" width="48%">
-</p>
-
-###
+<br />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="android studio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
 </div>
 
 ###
