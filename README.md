@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">I'm a Second year BSIT Student</h3>
+<h3 align="left">I'm a Third year BSIT Student</h3>
 
 ###
 
