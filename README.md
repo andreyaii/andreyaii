@@ -54,14 +54,8 @@
   </a>
 </div>
 
-
 ###
-
-
-
-###
-
-
+  <img align="right" height="260" src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif" />
 
 ## 🎧 Recently Played on Spotify
 
@@ -70,9 +64,6 @@
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6iy2hv46f3s65ec1hevwfgvz3" alt="Spotify Recently Played" />
   </a>
 </div>
-
-
-<img align="right" height="219" src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif"  />
 
 
 ## 🐍 Contribution Snake
