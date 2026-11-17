@@ -61,8 +61,6 @@
 
 ###
 
-<img align="right" height="219" src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif"  />
-
 
 
 ## 🎧 Recently Played on Spotify
@@ -73,6 +71,8 @@
   </a>
 </div>
 
+
+<img align="right" height="219" src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif"  />
 
 
 ## 🐍 Contribution Snake
