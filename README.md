@@ -57,12 +57,12 @@
 ###
 ## 🎧 Recently Played on Spotify
 
-<div align="center">
-  <img align="right" height="260" hspace="20" src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif" />
+<p align="center">
   <a href="https://open.spotify.com/user/6iy2hv46f3s65ec1hevwfgvz3">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6iy2hv46f3s65ec1hevwfgvz3" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6iy2hv46f3s65ec1hevwfgvz3" alt="Spotify Recently Played" height="260" />
   </a>
-</div>
+  <img src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif" height="260" />
+</p>
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/andreyaii/andreyaii/output/github-contribution-grid-snake-dark.svg)
