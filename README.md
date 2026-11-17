@@ -1,10 +1,20 @@
-<h2 align="left">Hi 👋! My name is Andrea</h2>
+# `> whoami` :
+> <br>Hey! I'm Dreya, a third year IT student who loves creating things with code.<br><br><br>while(alive) { learn(); build(); repeat(); }
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreyaii&show_icons=true&theme=merko&border_color=599200&v=1" height="165" alt="GitHub Stats" />
-  <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreyaii&theme=merko&layout=compact&border_color=599200&langs_count=6" height="165" alt="Top Languages" />
-</div>
+
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=andreyaii&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&card_width=350" width="350" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=andreyaii&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=350" width="350" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=andreyaii&theme=dracula&hide_border=true&card_width=710" width="710" height="200" />
+</p>
+
+
 
 <br />
 
@@ -46,13 +56,16 @@
 
 <img align="right" height="219" src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif"  />
 
-###
+
+
+## 🎧 Recently Played on Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Dreya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6iy2hv46f3s65ec1hevwfgvz3&unique"  />
+  <a href="https://open.spotify.com/user/6iy2hv46f3s65ec1hevwfgvz3">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6iy2hv46f3s65ec1hevwfgvz3&unique=1" />
   </a>
 </div>
+
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/andreyaii/andreyaii/output/github-contribution-grid-snake-dark.svg)
