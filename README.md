@@ -43,14 +43,21 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+
+  <a href="mailto:andreajoanne.labajos@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail - andreajoanne.labajos@gmail.com" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/andrea-joanne-labajos-668655430/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
 </div>
+
 
 ###
 
-<h3 align="left">I'm a Third year BSIT Student</h3>
+
 
 ###
 
@@ -62,9 +69,10 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/6iy2hv46f3s65ec1hevwfgvz3">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6iy2hv46f3s65ec1hevwfgvz3&unique=1" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6iy2hv46f3s65ec1hevwfgvz3" alt="Spotify Recently Played" />
   </a>
 </div>
+
 
 
 ## 🐍 Contribution Snake
