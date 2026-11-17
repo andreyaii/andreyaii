@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/33/38/92/33389288179d89373a8a43ad48d9469b.gif" width="100%" height="100" style="object-fit: cover; object-position: center;" alt="Header Banner" />
+</p>
 # `> whoami` :
 > <br>Hey! I'm Dreya, a third year IT student who loves creating things with code.<br><br><br>while(alive) { learn(); build(); repeat(); }
 
