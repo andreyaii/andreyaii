@@ -1,13 +1,11 @@
-
 <p align="center">
   <img
-    src="https://i.pinimg.com/originals/c9/46/36/c9463690d54fa5efb0e3ddfb3b071275.gif"
+    src="https://64.media.tumblr.com/d73eba42854dac9ab897193cd96c9344/7b3d0cfb059186e6-3f/s1280x1920/383af36c2c092df488af4787fe1f82d3c5f634ca.gif"
     width="100%"
-    height="220"
-    style="object-fit: cover; object-position: center;"
-    alt="Dreya's Header Banner"
+    alt="Header GIF"
   />
 </p>
+
 
 # `> whoami` :
 > <br>Hey! I'm Dreya, a third year IT student who loves creating things with code.<br><br><br>while(alive) { learn(); build(); repeat(); }
